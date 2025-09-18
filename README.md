@@ -1,1 +1,1 @@
-# Shegoleva_test 3 var
+# 3 вариант
